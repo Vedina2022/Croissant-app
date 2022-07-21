@@ -1,0 +1,30 @@
+body {
+  background: #fbf2d5;
+}
+h1 {
+  color: #394a51;
+  text-align: center;
+}
+p {
+  color: #394a51;
+  line-height: 1.5;
+  text-align: center;
+  font-size: 16px;
+}
+/* a {
+  margin: 10px;
+  color: #394a51;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 20px 15px;
+  background-color: #7fa99b;
+
+} */
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+/* .navigation-links {
+  text-align: center;
+  margin-top: 40px;
+} */
